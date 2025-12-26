@@ -102,12 +102,19 @@ order-book modeling, performance-critical systems, and ML-driven decision logic.
 
 ---
 
-## 📈 GitHub Activity
+## 📊 Live Developer Signals
 
+![GitHub followers](https://img.shields.io/github/followers/srikrishnakoushik?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/srikrishnakoushik?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=srikrishnakoushik&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikrishnakoushik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+![Python](https://img.shields.io/badge/Primary-Python-blue?style=for-the-badge)
+![Quant](https://img.shields.io/badge/Focus-Quant%20Systems-black?style=for-the-badge)
+![ML](https://img.shields.io/badge/ML-Applied-green?style=for-the-badge)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srikrishnakoushik&hide_border=true)
+## 🐍 Contribution Flow
+
+![Snake animation](https://github.com/srikrishnakoushik/srikrishnakoushik/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
