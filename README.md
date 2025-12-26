@@ -1,115 +1,53 @@
-# Hi, I'm Sri Krishna Koushik 👋  
+<h1 align="center">Hi 👋, I'm Sri Krishna Koushik</h1>
+<h3 align="center">Software Engineer | Data Scientist | Quantitative Systems Enthusiast</h3>
 
-🎓 Data Science Undergraduate  
-📊 Analytics Engineer | Data Analyst | Business Analyst  
-💻 Software Engineer (Analytics-Focused)
+<ul>
+  <li>🔭 I’m currently working on <b>low-latency trading simulations, ML-integrated full-stack systems, and analytics platforms</b></li>
+  <li>🌱 I’m currently learning <b>market microstructure, quantitative trading systems, and advanced system design</b></li>
+  <li>👯 I’m looking to collaborate on <b>quantitative finance systems, analytics engineering, and ML-driven products</b></li>
+  <li>🤝 I’m looking for help with <b>optimizing low-latency pipelines and scaling data-intensive systems</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/srikrishnakoushik">github.com/srikrishnakoushik</a></li>
+  <li>💬 Ask me about <b>Python, React, data pipelines, ML integration, low-latency systems</b></li>
+  <li>📫 How to reach me: <b>srikrishnakoushik2345@gmail.com</b></li>
+  <li>⚡ Fun fact: <b>I enjoy combining finance, data, and software engineering into real systems</b></li>
+</ul>
 
-I build **data-driven systems and analytics platforms** that bridge business requirements with scalable engineering solutions.  
-My work focuses on **SQL, Python, analytics pipelines, backend systems, and automation**, with an emphasis on real-world impact and clean architecture.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sri-krishna-koushik-8963a8288" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/s_k_koushik" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/srikrishnakoushik" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-## 🔍 What I Work On
+<br/>
 
-- End-to-end **analytics and data engineering projects**
-- **Business problem translation** into data models and systems
-- **Automation & pipelines** for analytics workflows
-- Backend-driven applications with data at the core
-- Resume analysis, hiring tech, and decision-support systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srikrishnakoushik&show_icons=true&theme=default" />
+</p>
 
----
-
-## 🧠 Core Skills
-
-**Programming & Data**
-- Python, SQL, Java  
-- Data Analysis, Data Modeling, Feature Engineering  
-
-**Analytics & Engineering**
-- Analytics Pipelines  
-- ETL / Data Processing  
-- Business Metrics & KPI Analysis  
-
-**Backend & Systems**
-- REST APIs  
-- System Design (Analytics-focused)  
-- Database Design  
-
-**Tools & Technologies**
-- Flask  
-- Pandas, NumPy  
-- Git & GitHub  
-- MySQL / PostgreSQL  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 NextHire — Intelligent Hiring & Analytics Platform
-A hiring analytics system that evaluates resumes against job descriptions using structured skill extraction and scoring logic.
-
-**Focus:** Business analytics, resume intelligence, backend systems  
-**Tech:** Python, NLP, SQL, Flask
-
----
-
-### 🔹 ATS Resume Skill Analyzer
-An analytics-driven Applicant Tracking System module that extracts, scores, and compares candidate skills against role requirements.
-
-**Focus:** Data extraction, scoring logic, decision support  
-**Tech:** Python, NLP, Data Processing
-
----
-
-### 🔹 Aether Platform
-A data-centric platform designed to support analytics workflows and structured insights generation.
-
-**Focus:** Platform thinking, analytics architecture  
-**Tech:** Python, Backend Systems
-
----
-
-### 🔹 ML Analytics Pipeline
-A production-style analytics pipeline demonstrating data ingestion, transformation, and model-ready outputs.
-
-**Focus:** ETL, automation, pipeline design  
-**Tech:** Python, Data Pipelines
-
----
-
-### 🔹 FlashSim — Low-Latency Order Book & HFT Strategy Simulator
-A simulation framework modeling order books and low-latency trading strategies.
-
-**Focus:** Performance, systems thinking, simulation  
-**Tech:** Python
-
----
-
-### 🔹 Secure Online Voting System
-A backend-driven system for managing secure digital voting with structured data handling.
-
-**Focus:** Real-world system design, backend logic  
-**Tech:** JavaScript, Backend Architecture
-
----
-
-## 📈 What You’ll See in My Repositories
-
-- Clear **problem statements**
-- Business context before technical implementation
-- Clean, readable code
-- Structured READMEs with architecture and workflows
-- Projects built end-to-end (not demos)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sri-krishna-koushik-8963a8288/
-- 🧠 LeetCode: https://leetcode.com/u/Srikrishnakoushik/
-- 💻 GitHub: https://github.com/srikrishnakoushik
-
----
-
-⭐ If you’re a recruiter or hiring manager:  
-My pinned repositories reflect the kind of problems I enjoy solving — **analytics-driven, system-oriented, and business-impactful**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikrishnakoushik" />
+</p>
